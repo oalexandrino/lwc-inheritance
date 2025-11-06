@@ -100,4 +100,12 @@ LightningModal
 - **Separation of Concerns:** Modal logic separated from business logic
 - **Extensibility:** Easy to create new concrete components by extending `lightningBase`
 
+## Screenshots
+
+Project prints:
+
+- [print-1.png](images/print-1.png)
+- [print-2.png](images/print-2.png)
+- [print-3.png](images/print-3.png)
+
 
